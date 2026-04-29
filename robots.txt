@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bnm-ten.vercel.app/sitemap.xml
